@@ -1,4 +1,4 @@
-# AHK+
+# AHK+ 1.0.1
 
 Windows macro-pad application. Download the installer from the latest release.
 
